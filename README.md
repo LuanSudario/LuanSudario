@@ -7,5 +7,5 @@ Olá :), sou o Luan Sudario Fernandes da Silva, moro no interior de SP e estou c
 <div style="display: inline_block"><br>
 Em Estudo📖:
   <img align="center" alt="Allan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img aling="right" alt="Allan-Python" heigh="50" width="60" src="https://mystickermania.com/cdn/stickers/games/hollow-knight-like-512x512.png"
+  <img aling="right" alt="Allan-Python" heigh="130" width="100" src="https://mystickermania.com/cdn/stickers/games/hollow-knight-like-512x512.png"
     </div>
