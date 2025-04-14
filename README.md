@@ -8,4 +8,4 @@ Olá :), sou o Luan Sudario Fernandes da Silva, moro no interior de SP e estou c
 Em Estudo📖:
   <img align="center" alt="Allan-Python" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   
-    </div>
+    
