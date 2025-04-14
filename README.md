@@ -1,17 +1,20 @@
 # LuanSudario
 
+
 **👋-Olá :), sou o Luan Sudario**
+
 **🏡-moro no interior de SP**
+
 **💻-estou cursando desenvolvimento de sistemas no SENAI :D**
+
 **📚-entre no contato no e-mail: luan.ebaaaa@gmail.com**
 
 
 <div>
 <img aling="right" alt="Allan-Python" heigh="130" width="100" src="https://mystickermania.com/cdn/stickers/games/hollow-knight-like-512x512.png">
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuanSudario)](https://github.com/anuraghazra/github-readme-stats&theme=gruvbox&icons=true)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuanSudario)](https://github.com/anuraghazra/github-readme-stats&icons=true&theme=gruvbox)
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuanSudario&https://github.com/anuraghazra/github-readme-stats&theme=gruvbox&icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuanSudario&https://github.com/anuraghazra/github-readme-stats&icons=true&theme=gruvbox)
 
 
 <div style="display: inline_block"><br>
