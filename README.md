@@ -7,7 +7,7 @@
 
 **💻-estou cursando desenvolvimento de sistemas no SENAI :D**
 
-**📚-entre no contato no e-mail: luan.ebaaaa@gmail.com**
+**📚-entre em contato no e-mail: luan.ebaaaa@gmail.com**
 
 
 <div>
